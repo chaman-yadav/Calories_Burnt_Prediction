@@ -85,7 +85,7 @@ The Random Forest Regressor was chosen due to its superior performance.
 For model verification, check the ipynb file.
 
 ## Application
-Click on the link below to access the deployed app:
+Click on the link below to access the deployed app on your system:
 [Run the App](https://caloriesburntprediction.streamlit.app/)
 
 
